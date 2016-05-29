@@ -1,2 +1,2 @@
 # hello-world
-''' TUtorial : Branch created : Editing in branch : Next - will commit changes'''
+''' Tutorial : Branch created : Editing in branch : Next - will commit changes'''
